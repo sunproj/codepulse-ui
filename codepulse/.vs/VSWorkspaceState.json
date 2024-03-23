@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src\\app",
+    "\\src\\app\\features",
+    "\\src\\app\\features\\category",
+    "\\src\\app\\features\\category\\category-list"
   ],
   "PreviewInSolutionExplorer": false
 }
